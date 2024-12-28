@@ -2,6 +2,23 @@
 
 A React application that helps recruiters find and manage potential candidates from GitHub. The application allows users to browse GitHub profiles, save interesting candidates, and manage their list of potential recruits.
 
+## Table of Contents
+
+- [GitHub Talent Scout](#github-talent-scout)
+  - [Table of Contents](#table-of-contents)
+  - [Features](#features)
+  - [Technologies Used](#technologies-used)
+  - [Prerequisites](#prerequisites)
+  - [Installation](#installation)
+  - [Usage](#usage)
+    - [Home Page (Candidate Search)](#home-page-candidate-search)
+    - [Saved Candidates Page](#saved-candidates-page)
+  - [Building for Production](#building-for-production)
+  - [Environment Variables](#environment-variables)
+  - [License](#license)
+  - [Acknowledgments](#acknowledgments)
+  - [Contact](#contact)
+
 ## Features
 
 - Browse random GitHub profiles with detailed user information
