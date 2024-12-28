@@ -2,6 +2,8 @@
 
 A React application that helps recruiters find and manage potential candidates from GitHub. The application allows users to browse GitHub profiles, save interesting candidates, and manage their list of potential recruits.
 
+[Talent Scout Live Demo](https://one3-candidatesearch.onrender.com)
+
 ## Table of Contents
 
 - [GitHub Talent Scout](#github-talent-scout)
