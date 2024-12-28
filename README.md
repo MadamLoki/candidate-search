@@ -90,14 +90,6 @@ Required environment variables:
 
 - `VITE_GITHUB_TOKEN`: Your GitHub Personal Access Token
 
-## Contributing
-
-1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
 ## License
 
 This project is licensed under the MIT License - see the LICENSE.md file for details
@@ -107,3 +99,9 @@ This project is licensed under the MIT License - see the LICENSE.md file for det
 - GitHub API for providing the data
 - React and Vite communities for excellent documentation
 - TailwindCSS for the styling utilities
+
+## Contact
+
+For any questions, please contact me at [sara.j.ryan.90@gmail.com](mailto:sara.j.ryan.90@gmail.com)
+
+GitHub: [Madam_Loki](http://github.com/Madam_Loki)
